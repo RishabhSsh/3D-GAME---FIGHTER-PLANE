@@ -18,7 +18,7 @@ USAGE
 2. open it.
 3. use "cmake .."
 4. use "make all"
-5. then exicute :)
+5. then execute :)
 
 Requirements 
 ------------
